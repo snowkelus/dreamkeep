@@ -1,10 +1,10 @@
-name: PlanetScale (Sleepercell Ping)
+name: PlanetScale (Sleepercell / Sleepless Ping)
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 */3 * * *'
 jobs:
   cron:
     runs-on: ubuntu-latest
