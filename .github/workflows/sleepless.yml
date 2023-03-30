@@ -2,7 +2,7 @@ name: PlanetScale (Sleepercell Ping)
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 12 * * *'
 jobs:
