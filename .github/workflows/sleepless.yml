@@ -9,7 +9,7 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-      - name: Sleeper Cell Ping
+      - name: Sleeper Cell / Sleepless Ping (Database)
         run: |
           curl --request PUT \
             --header 'authorization: ${{ secrets.AUTHORIZATION }}' \
