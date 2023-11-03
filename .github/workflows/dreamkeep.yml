@@ -1,4 +1,4 @@
-name: PlanetScale (Sleepercell / Sleepless Ping)
+name: Planet Scale (Dream Keep - Ping)
 on:
   push:
     branches:
@@ -9,7 +9,7 @@ jobs:
   cron:
     runs-on: ubuntu-latest
     steps:
-      - name: Sleeper Cell / Sleepless Ping (Database)
+      - name: Dream Keep - Ping (Database)
         run: |
           curl --request PUT \
             --header 'authorization: ${{ secrets.AUTHORIZATION }}' \
