@@ -9,8 +9,10 @@
 * NTASGov / NTAS-ia (Tokyo, soon)..
 * Snowkelus Platform and URL / URI Shortener (Tokyo, soon)..
 
+#### Code Notice:
+
 * Note: Databases to Be Updated, very soon..
 
-#### Made by:
+#### Made By:
 
 * Snowkelus and Company..
