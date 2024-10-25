@@ -1,4 +1,4 @@
-#### Dream Keep - About:
+#### MH (Mollusk Hive) - About:
 
 * CRON Job and RESTFul API Scheduling Framework Method..
 
@@ -6,7 +6,10 @@
 
 * JMBD (Blog) (Tokyo)..
 * Marketplace (Tokyo)..
-* NTASGov (Tokyo, soon)..
+* NTASGov / NTAS-ia (Tokyo, soon)..
+* Snowkelus Platform and URL / URI Shortener (Tokyo, soon)..
+
+* Note: Databases to Be Updated, very soon..
 
 #### Made by:
 
